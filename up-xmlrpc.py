@@ -14,9 +14,9 @@ def logo ():
     logo = """
 Wordpress Auto Upload Shell http://site.com/wp-login.php#admin@pass 
 Make sure u have zip shell that calls up.zip and up.php while run this toools to upload the shells and use format like xmlrpc bf logs
-3 Ways uploading plugin, themes, filemanager for more free tools join @DailyToolz 
+3 Ways uploading plugin, themes, filemanager for more free tools join @Helltakerc3rb 
 
-Credits : @CallMeRep
+Credits : @HelltakerC3rb
 \n\n""".format(w=Fore.WHITE)
     for line in logo.splitlines():
         print("".join(colors[random.randint(1, len(colors)-1)] + line.format(w=Fore.WHITE, r=Fore.RED)))
