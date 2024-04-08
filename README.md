@@ -1,4 +1,4 @@
-This Python script appears to be an automated tool to exploit WordPress sites to load shell files. Here is a brief overview of its functions:
+<h1> This Python script appears to be an automated tool to exploit WordPress sites to load shell files. Here is a brief overview of its functions: </h1>
 
 Initialization: The script imports the necessary modules and sets up initial variables, including colors for the terminal output.
 
