@@ -1,3 +1,6 @@
+![10](https://github.com/0x3f3c/xmlrpc-up/assets/154844497/de24370d-b63a-4ea3-b695-c81aa8a0bd3c)
+
+
 <h1> an automated tool to exploit WordPress sites to load shell files. Here is a brief overview of its functions: </h1>
 
 Initialization: The script imports the necessary modules and sets up initial variables, including colors for the terminal output.
